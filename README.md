@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Athul Raju</h1>
-<h3 align="center">As a Software Engineer with a passion for creating a positive impact on the lives of millions of people, I am highly skilled in utilizing technology to solve complex problems at scale. I excel in collaborating with cross-functional teams and have a strong ability to analyze tradeoffs. I am well-versed in a variety of programming languages and frameworks, including C, Core Java, Python, Spring Framework, Spring Cloud,Spring MVC,Spring Boot, Javascript (React.js+Redux), Node.js, Express.js, MongoDB, MySQL, PL/SQL, AWS,Maven,Hibernate,Junit,Mockito,JPA,. I am always seeking new challenges and opportunities to further develop my skills and make a meaningful impact in my field.</h3>
+<h3 align="center">As a Software Engineer with a passion for creating a positive impact on the lives of millions of people, I am highly skilled in utilizing technology to solve complex problems at scale. I excel in collaborating with cross-functional teams and have a strong ability to analyze tradeoffs. I am always seeking new challenges and opportunities to further develop my skills and make a meaningful impact in my field.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=athulrajugit&label=Profile%20views&color=0e75b6&style=flat" alt="athulrajugit" /> </p>
 
