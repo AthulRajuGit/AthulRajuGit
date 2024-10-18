@@ -7,7 +7,6 @@
 
 - 💬 Ask me about **Java,Spring Boot,Microservices**
 
-- 📫 How to reach me **athul.raju.500@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
